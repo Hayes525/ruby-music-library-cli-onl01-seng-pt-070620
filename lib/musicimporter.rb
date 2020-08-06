@@ -15,4 +15,3 @@ class MusicImporter
   end
 
 end
-
